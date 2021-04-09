@@ -1,5 +1,5 @@
 # Genomic-epidemiology-of-SARS-CoV2-in-Russia
-This repository contains scripts and data used in Genomic epidemiology of SARS-CoV-2 in "Russia reveals recurring cross-border transmission throughout 2020" paper
+This repository contains scripts and data used in Genomic epidemiology of SARS-CoV-2 in "Russia reveals recurring cross-border transmission throughout 2020" paper (https://www.medrxiv.org/content/10.1101/2021.03.31.21254115v1)
 Here is a brief description of all files:
 
 Folder "TransmissionLineages" contains files with russian singletons, stem clusters and transmission lineages as in (Komissarov et al, 2021) paper (https://www.nature.com/articles/s41467-020-20880-z). It also contains file with Pangolin clades for each russian sample (full_cat_pangolin_clades.out) as well as R script that uses all these files to make figure 3 from the "Genomic epidemiology of SARS-CoV-2 in Russia reveals recurring cross-border transmission throughout 2020" Manuscript.
